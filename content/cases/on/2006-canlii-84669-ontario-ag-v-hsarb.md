@@ -40,7 +40,7 @@ legislation:
     provisions:
       - s13
 
-case_family:
+case_family: nwhu-tobacco-s13
 
 relationships:
   - type: appeal-of
