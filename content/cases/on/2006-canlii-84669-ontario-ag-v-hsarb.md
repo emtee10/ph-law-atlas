@@ -55,7 +55,7 @@ public_health_roles:
   - medical-officer-of-health
 
 editorial:
-  status: draft
+  status: reviewed
   legal_reviewed: false
   created_date: 2026-09-30
   last_updated: 2026-10-03
