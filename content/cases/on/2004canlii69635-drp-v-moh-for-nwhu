@@ -1,0 +1,76 @@
+---
+id: 2004-canlii-69635
+title: DRP v. Medical Officer of Health for the Northwestern Health Unit
+citation: 2004 CanLII 69635
+decision_date: 2004-02-06
+jurisdiction: ON
+court: ONHSARB
+
+canlii:
+  database_id: onhsarb
+  case_id: 2004canlii69635
+  url: https://www.canlii.org/en/on/onhsarb/doc/2004/2004canlii69635/2004canlii69635.html
+  language: en
+  docket_number: null
+
+relevance: direct_public_health
+
+public_health_functions:
+  - health-hazards
+topics:
+  - delegated-authority
+  - orders
+  - scope-of-power
+  - smoking
+  - statutory-authority
+
+diseases_or_hazards:
+  - tobacco-smoke
+settings:
+  - convenience-store
+  - food-premise
+  - hospitality
+
+legislation:
+  - jurisdiction: ON
+    statute: Health Protection and Promotion Act
+    short_name: HPPA
+    citation: "RSO 1990, c H.7"
+    provisions:
+      - s13
+
+case_family: nwhu-tobacco-s13
+
+relationships:
+  - type: appealed-by
+    target_id: 2004-canlii-69635
+
+public_health_organizations:
+  - id: northwestern
+    name: Northwestern Health Unit
+    role: respondent
+
+public_health_roles:
+  - medical-officer-of-health
+
+editorial:
+  status: stub
+  legal_reviewed: false
+  created_date: 2026-10-03
+  last_updated: 2026-10-03
+  last_verified_against_source: 2026-10-03
+---
+
+# DRP v. Medical Officer of Health for the Northwestern Health Unit
+
+## 30-second read
+
+## Why this matters to an MOH/AMOH
+
+## Factual background
+
+## Issues
+
+## Decision
+
+## Reasoning
