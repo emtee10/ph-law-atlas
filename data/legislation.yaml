@@ -1,0 +1,45 @@
+HPPA:
+  title: Health Protection and Promotion Act
+  jurisdiction: ON
+  citation: RSO 1990, c H.7
+  official_url: https://www.ontario.ca/laws/statute/90h07
+  provisions:
+    s7:
+      label: s. 7
+      official_url: https://www.ontario.ca/laws/statute/90h07#BK8
+    s8:
+      label: s. 8
+      official_url: https://www.ontario.ca/laws/statute/90h07#BK9
+    s13:
+      label: s. 13
+      official_url: https://www.ontario.ca/laws/statute/90h07#BK16
+    s22:
+      label: s. 22
+      official_url: https://www.ontario.ca/laws/statute/90h07#BK27
+    s24:
+      label: s. 23
+      official_url: https://www.ontario.ca/laws/statute/90h07#BK29
+    s42:
+      label: s. 42
+      official_url: https://www.ontario.ca/laws/statute/90h07#BK50
+    s44:
+      label: s. 44
+      official_url: https://www.ontario.ca/laws/statute/90h07#BK52
+    s46:
+      label: s. 46
+      official_url: https://www.ontario.ca/laws/statute/90h07#BK54
+    s77.7:
+      label: s. 77.1
+      official_url: https://www.ontario.ca/laws/statute/90h07#BK88
+    s81:
+      label: s. 81
+      official_url: https://www.ontario.ca/laws/statute/90h07#BK96
+    s102:
+      label: s. 102    
+      official_url: https://www.ontario.ca/laws/statute/90h07#BK121
+
+ISPA:
+  title: Immunization of School Pupils Act
+  jurisdiction: ON
+  citation: RSO 1990, c I.1
+  official_url: https://www.ontario.ca/laws/statute/90i01

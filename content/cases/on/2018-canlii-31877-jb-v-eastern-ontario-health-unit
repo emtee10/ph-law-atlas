@@ -1,0 +1,67 @@
+---
+id: 2018-canlii-31877
+title: J.B. v. Eastern Ontario Health Unit
+citation: 2018 CanLII 31877
+decision_date: 2018-04-16
+jurisdiction: ON
+court: ONHSARB
+
+canlii:
+  database_id: null
+  case_id: null
+  url: https://www.canlii.org/en/on/onhsarb/doc/2018/2018canlii31877/2018canlii31877.html
+  language: en
+  docket_number: null
+
+relevance: 
+
+public_health_functions:
+  - communicable-disease-control
+  - immunization
+topics: []
+
+diseases_or_hazards: []
+settings: []
+
+legislation:
+  - jurisdiction: ON
+    statute: Immunization of School Pupils Act
+    short_name: ISPA
+    citation: "RSO 1990, c I.1"
+    provisions:
+      - s3
+      - s6
+
+case_family: direct_public_health
+
+relationships: []
+
+public_health_organizations:
+  - id: eastern-ontario
+    name: Eastern Ontario Health Unit
+    role: respondent
+
+public_health_roles:
+  - medical-officer-of-health
+
+editorial:
+  status: stub
+  legal_reviewed: false
+  created_date: 2026-10-01
+  last_updated: 2026-10-01
+  last_verified_against_source: 2026-10-01
+---
+
+# J.B. v Eastern Ontario Health Unit
+
+## 30-second read
+
+## Why this matters to an MOH/AMOH
+
+## Factual background
+
+## Issues
+
+## Decision
+
+## Reasoning

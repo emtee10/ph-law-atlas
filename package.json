@@ -1,0 +1,31 @@
+{
+  "name": "ph-law-atlas",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "npm run content:build && vite",
+    "build": "npm run content:build && tsc -b && vite build",
+    "preview": "vite preview",
+    "content:build": "node scripts/build-content.mjs",
+    "content:validate": "node scripts/build-content.mjs --validate-only",
+    "test": "npm run content:validate && tsc -b"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "typescript": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "latest",
+    "fuse.js": "latest",
+    "gray-matter": "latest",
+    "marked": "latest",
+    "yaml": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@types/node": "latest"
+  }
+}
