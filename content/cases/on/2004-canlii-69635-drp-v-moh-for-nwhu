@@ -43,7 +43,7 @@ case_family: nwhu-tobacco-s13
 
 relationships:
   - type: appealed-by
-    target_id: 2004-canlii-69635
+    target_id: 2006-canlii-84669
 
 public_health_organizations:
   - id: northwestern
