@@ -1,5 +1,5 @@
 ---
-id: on-2006-canlii-84669
+id: 2006-canlii-84669
 title: Ontario (Attorney General) v. Health Services Appeal and Review Board
 citation: 2006 CanLII 84669
 decision_date: 2006-01-04
@@ -7,27 +7,30 @@ jurisdiction: ON
 court: ONSCDC
 
 canlii:
-  database_id: null
-  case_id: null
+  database_id: onscdc
+  case_id: 2006canlii84669
   url: https://www.canlii.org/en/on/onscdc/doc/2006/2006canlii84669/2006canlii84669.html
   language: en
-  docket_number: null
+  docket_number: 159/04
 
 relevance: direct_public_health
 
 public_health_functions:
   - health-hazards
 topics:
-  - orders
-  - statutory-authority
-  - scope-of-power
-  - hsarb
   - delegated-authority
+  - HSARB
+  - orders
+  - scope-of-power
+  - smoking
+  - statutory-authority
 
 diseases_or_hazards:
-  - smoking
+  - tobacco-smoke
 settings:
+  - convenience-store
   - food-premise
+  - hospitality
 
 legislation:
   - jurisdiction: ON
@@ -39,7 +42,9 @@ legislation:
 
 case_family:
 
-relationships: []
+relationships:
+  - type: appeal-of
+    target_id: 2004-canlii-69635
 
 public_health_organizations:
   - id: northwestern
@@ -53,19 +58,19 @@ editorial:
   status: draft
   legal_reviewed: false
   created_date: 2026-09-30
-  last_updated: 2026-10-01
-  last_verified_against_source: 2026-09-30
+  last_updated: 2026-10-03
+  last_verified_against_source: 2026-10-03
 ---
 
 # Ontario (Attorney General) v. Health Services Appeal and Review Board
 
 ## 30-second read
 
-The Northwestern Health Unit attempted to use HPPA s. 13 health-hazard orders to prohibit smoking across hospitality premises in the health unit. HSARB rescinded the orders and the Divisional Court upheld that result. Although s. 13 is broad, it could not be used as an effectively health-unit-wide, indefinite substitute for legislation of general application.
+The Northwestern Health Unit attempted to use HPPA s. 13 health-hazard orders to prohibit smoking across hospitality premises in the health unit. HSARB rescinded the orders and the Divisional Court upheld that result. Although s. 13 is broad, it could not be used as an effectively health unit-wide, indefinite substitute for legislation of general application.
 
 ## Why this matters to an MOH/AMOH
 
-This is a foundational Ontario case on the **limits of broad public-health order-making powers**. It is useful whenever an intervention is moving from a fact-specific response toward a rule that looks legislative in scope.
+This is a foundational Ontario case on the **limits of broad public health order-making powers**. It is useful whenever an intervention is moving from a fact-specific response toward a rule that looks legislative in scope.
 
 ## Factual background
 
@@ -80,7 +85,7 @@ HSARB did not decide whether second-hand smoke could constitute a health hazard.
 
 ## Decision
 
-The Divisional Court upheld HSARB.
+The Divisional Court upheld HSARB's conclusion and dismissed the application for judicial review.
 
 ## Reasoning
 
