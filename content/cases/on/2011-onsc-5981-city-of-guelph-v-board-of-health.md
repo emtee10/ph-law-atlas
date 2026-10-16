@@ -44,16 +44,16 @@ relationships: []
 public_health_organizations:
 - id: wellington-dufferin-guelph
   name: Wellington-Dufferin-Guelph Health Unit
-  role: respondent
+  role: defendant
 
 public_health_roles: []
 
 editorial:
-  status: draft
+  status: reviewed
   legal_reviewed: false
   created_date: 2026-10-09
-  last_updated: 2026-10-09
-  last_verified_against_source: 2026-10-09
+  last_updated: 2026-10-16
+  last_verified_against_source: 2026-10-16
 ---
 
 # City of Guelph v. Board of Health
