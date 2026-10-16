@@ -28,6 +28,12 @@ HPPA:
     s46:
       label: s. 46
       official_url: https://www.ontario.ca/laws/statute/90h07#BK54
+    s52:
+      label: s. 52
+      official_url: https://www.ontario.ca/laws/statute/90h07#BK60
+    s72:
+      label: s. 72
+      official_url: https://www.ontario.ca/laws/statute/90h07#BK78
     s77.7:
       label: s. 77.1
       official_url: https://www.ontario.ca/laws/statute/90h07#BK88
